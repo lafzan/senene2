@@ -1,0 +1,22 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+en:
+  languageCode: en
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+contentDir: content/en/
+
+# Uncomment the lines below to configure your website in a second language.
+ tr:
+  languageCode: tr
+  contentDir: content/tr/
+  title: Sinem Esengen
+  params:
+    description: ...
+  menu:
+    main:
+      - name: Sinem Esengen
+        url: '#about'
+        weight: 1
